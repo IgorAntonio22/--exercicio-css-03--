@@ -1,0 +1,49 @@
+body {
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(219, 212, 212) , gray);
+}
+
+h1 {
+    margin-bottom: 4%;
+    margin-top: 10%;
+    text-align: center;
+    display: block;
+}
+
+.bigbox {
+    text-align: center;
+    margin: 0% 0% 2% 29%;
+    display: block;
+    background-color: red;
+    width: 800px;
+    height: 400px;
+}
+
+.p1 {
+    width: 700px;
+    height: 150px;
+    background-size: 100% 100%;
+    background-clip: content-box;
+    text-align: center;
+    background-color: green;
+    padding: 5% 10% 0% 6%;
+    margin: 0%;
+    color: black;
+}
+
+.p2 {
+    width: 700px;
+    height: 150px;
+    background-size: 100% 100%;
+    background-clip: content-box;
+    text-align: center;
+    background-color: green;
+    padding: 2% 10% 0% 6%;
+    margin: 0%;
+    color: black;
+}
+
+.p3 {
+    text-align: center;
+    margin: 0;
+}
